@@ -1,2 +1,2 @@
-# Laravel API- Registration, Login and Forgot Password
+# Laravel Tailor App API's- Registration, Login and Measurement Value
 ##### api authentication with laravel passport
